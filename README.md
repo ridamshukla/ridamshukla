@@ -1,5 +1,5 @@
-![logo](![Yellow and Blue Bold Marketing Agency with Hexagon Frame LinkedIn Banner](https://github.com/user-attachments/assets/a0a7b702-027e-4beb-8c02-82e9350f4f42)
-)
+![logo](https://github.com/user-attachments/assets/a0a7b702-027e-4beb-8c02-82e9350f4f42)
+
 <h1 align="center">Hi 👋, I'm Ridam Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
