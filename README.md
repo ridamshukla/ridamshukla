@@ -1,4 +1,4 @@
-![logo](https://github.com/ridamshukla/ridamshukla/blob/main/Blue%20Modern%20Gradient%20Gaming%20Youtube%20Thumbnail.png)
+![logo]("C:\Users\ridam\Downloads\Yellow and Blue Bold Marketing Agency with Hexagon Frame LinkedIn Banner.png")
 <h1 align="center">Hi 👋, I'm Ridam Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
